@@ -160,6 +160,7 @@ Kelebihan
 Kelemahan :
 
 # Referensi
+[`^ kembali ke atas ^`](#)
+
 - <a href="https://github.com/vanilla/vanilla">Vanilla Repository</a> - Github
 - <a href="https://www.vultr.com/docs/how-to-install-vanilla-forum-on-ubuntu-16-04">How to Install Vanilla Forum on Ubuntu 16.04<a> - Vultr 
-[`^ kembali ke atas ^`](#)
