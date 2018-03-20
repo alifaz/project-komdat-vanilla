@@ -118,7 +118,8 @@ Berikut langka-langkah menginstall Vanilla menggunakan Installatron :
 1. Kunjungi website installatron.com lalu cari "Vanilla Forum" di kolom pencarian
 2. klik "+ install this application" 
 3. isi form yang ditampilkan, lalu klik install di pojok kanan bawah
-<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/installaron.png"align="left">
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/installaron.png" align="center">
+
 4. Tunggu proses installasi hingga selesai
 
 
