@@ -134,7 +134,7 @@ Berikut adalah cara pemakaian <strong>Vanilla Forum</strong>
 3. Akan ditampilkan halaman home seperti dibawah ini 
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/home.png" align="center">
 4. Setelah login, kita dapat langsung membuat diskusi baru dengan cara menekan tombol "New Discussion" lalu akan muncul tampilan berikut 
-<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-localhost%208888-2018-03-19-17-39-35.png">
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-localhost%208888-2018-03-19-17-39-35.png" align="center">
 5. Berikut adalah tampilan setelah kita membuat diskusi, kita pun juga dapat memberikan tanggapan di kolom komentar
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-localhost%208888-2018-03-19-17-41-50.png" align="center">
 
