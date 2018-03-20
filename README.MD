@@ -112,6 +112,14 @@ menentukan judul <i>homepage</i>, deskripsi situs, judul dan logo <i>banner</i>,
 # Otomatisasi
 [`^ kembali ke atas ^`](#)
 
+Terdapat cara alternatif yang lebih mudah untuk menginstall Vanilla, yaitu dengan menggunakan layanan web-hosting provider. Salah satu web yang menyediakan layanan tersebut adalah <strong>Installatron</strong> 
+
+Berikut langka-langkah menginstall Vanilla menggunakan Installatron : 
+1. Kunjungi website installatron.com lalu cari "Vanilla Forum" di kolom pencarian
+2. klik "+ install this application" 
+3. isi form yang ditampilkan, lalu klik install di pojok kanan bawah
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/installaron.png"align="left">
+4. Tunggu proses installasi hingga selesai
 
 
 # Cara Pemakaian
