@@ -130,7 +130,7 @@ Berikut adalah cara pemakaian <strong>Vanilla Forum</strong>
 1. Kunjungi halaman utama Vanilla Forum, lalu klik login
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/tampilan%20awal.png" align="center">
 2. isikan username/email dan password yang telah terdaftar, lalu klik tombol "Sign In"
-<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/login.png" align="center">
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/login.jpg" align="center">
 3. Akan ditampilkan halaman home seperti dibawah ini 
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/home.png" align="center">
 4. Setelah login, kita dapat langsung membuat diskusi baru dengan cara menekan tombol "New Discussion" lalu akan muncul tampilan berikut 
