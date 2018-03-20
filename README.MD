@@ -106,7 +106,7 @@ $ https://localhost:8888
 sosial lainnya, statistika forum, dan lain-lain. Pada gambar di bawah, ditampilkan laman pengaturan <i>branding</i>. Di sini, kita dapat
 menentukan judul <i>homepage</i>, deskripsi situs, judul dan logo <i>banner</i>, <i>favicon</i>, dan beberapa opsi pengaturan lainnya.
 
-<img src="https://drive.google.com/open?id=1o7e8CG7Qo9By8RP4GkynTP4ZxBPRBb5p" align="center">
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/screenshot/screenshot-localhost%208888-2018-03-19-17-32-28.png" align="center">
 
 
 # Otomatisasi
