@@ -117,6 +117,7 @@ Terdapat cara alternatif yang lebih mudah untuk menginstall Vanilla, yaitu denga
 Berikut langka-langkah menginstall Vanilla menggunakan Installatron : 
 1. Kunjungi website installatron.com lalu cari "Vanilla Forum" di kolom pencarian
 2. klik "+ install this application" 
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-installatron.com-2018-03-19-17-35-46.png" align="center">
 3. isi form yang ditampilkan, lalu klik install di pojok kanan bawah
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/installaron.png" align="center">
 
@@ -125,7 +126,17 @@ Berikut langka-langkah menginstall Vanilla menggunakan Installatron :
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-
+Berikut adalah cara pemakaian <strong>Vanilla Forum</strong>
+1. Kunjungi halaman utama Vanilla Forum, lalu klik login
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/tampilan%20awal.png" align="center">
+2. isikan username/email dan password yang telah terdaftar, lalu klik tombol "Sign In"
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/login.jpg" align="center">
+3. Akan ditampilkan halaman home seperti dibawah ini 
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/home.png" align="center">
+4. Setelah login, kita dapat langsung membuat diskusi baru dengan cara menekan tombol "New Discussion" lalu akan muncul tampilan berikut 
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-localhost%208888-2018-03-19-17-39-35.png">
+5. Berikut adalah tampilan setelah kita membuat diskusi, kita pun juga dapat memberikan tanggapan di kolom komentar
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-localhost%208888-2018-03-19-17-41-50.png" align="center">
 
 
 # Pembahasan
