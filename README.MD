@@ -1,5 +1,6 @@
 <h5 align="center"><img src="https://camo.githubusercontent.com/316411cdc29cf834af3ba95fdfddd619ef42d58c/687474703a2f2f696d616765732e762d63646e2e6e65742f76616e696c6c612d626c61636b2d6c6f676f2d3430302e737667"></h5>
 
+
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
@@ -97,24 +98,21 @@ $ sudo systemctl restart apache2
 ```
 $ https://localhost:8888
 ```
+
 # Konfigurasi
-
 [`^ kembali ke atas ^`](#)
 
-- 
+**Terdapat banyak hal** yang dapat diatur di Vanilla Forum, meliputi <i>branding</i>, registrasi, kategori diskusi, koneksi dengan media
+sosial lainnya, statistika forum, dan lain-lain. Pada gambar di bawah, ditampilkan laman pengaturan <i>branding</i>. Di sini, kita dapat
+menentukan judul <i>homepage</i>, deskripsi situs, judul dan logo <i>banner</i>, <i>favicon</i>, dan beberapa opsi pengaturan lainnya.
 
-
-# Maintenance
-
-[`^ kembali ke atas ^`](#)
-
-- 
+<img src="https://drive.google.com/open?id=1o7e8CG7Qo9By8RP4GkynTP4ZxBPRBb5p" align="center">
 
 
 # Otomatisasi
 [`^ kembali ke atas ^`](#)
 
-- 
+
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
