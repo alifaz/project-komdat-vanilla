@@ -71,7 +71,6 @@ CREATE USER 'vanilla_user'@'localhost' IDENTIFIED BY 'StrongPassword';
 GRANT ALL PRIVILEGES ON vanilla_data.* TO 'vanilla_user'@'localhost'; 
 FLUSH PRIVILEGES; 
 EXIT;
-
 ```
 *Ganti nama database vanilla_data dan username vanilla_user sesuai dengan keinginan. Jangan lupa untuk mengganti StrongPassword dengan password yang benar-benar kuat
 
@@ -81,14 +80,21 @@ $ sudo nano /etc/apache2/sites-available/000-default.conf
 ```
 11. Populate file host virtual yang sudah dibuat.
 ```
-<VirtualHost *:80> ServerName forum.example.com DocumentRoot /var/www/vanilla <Directory /var/www/vanilla> Options Indexes FollowSymLinks MultiViews AllowOverride All Order allow,deny allow from all </Directory> </VirtualHost> 
+<VirtualHost *:80> 
+  ServerName forum.example.com 
+  DocumentRoot /var/www/vanilla 
+  <Directory /var/www/vanilla> 
+    Options Indexes FollowSymLinks MultiViews 
+    AllowOverride All 
+    Order allow,deny 
+    allow from all 
+  </Directory> 
+</VirtualHost> 
 ```
 12. Aktifkan modul rewrite Apache. 
 ```
 $ sudo a2enmod rewrite 
-
 ```
-
 13. Jalankan kembali Apache.
 ```
 $ sudo systemctl restart apache2
@@ -102,7 +108,7 @@ $ https://localhost:8888
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-**Terdapat banyak hal** yang dapat diatur di Vanilla Forum, meliputi <i>branding</i>, registrasi, kategori diskusi, koneksi dengan media
+Terdapat banyak hal yang dapat diatur di Vanilla Forum, meliputi <i>branding</i>, registrasi, kategori diskusi, koneksi dengan media
 sosial lainnya, statistika forum, dan lain-lain. Pada gambar di bawah, ditampilkan laman pengaturan <i>branding</i>. Di sini, kita dapat
 menentukan judul <i>homepage</i>, deskripsi situs, judul dan logo <i>banner</i>, <i>favicon</i>, dan beberapa opsi pengaturan lainnya.
 
@@ -154,4 +160,6 @@ Kelebihan
 Kelemahan :
 
 # Referensi
+- <a href="https://github.com/vanilla/vanilla">Vanilla Repository</a> - Github
+- <a href="https://www.vultr.com/docs/how-to-install-vanilla-forum-on-ubuntu-16-04">How to Install Vanilla Forum on Ubuntu 16.04<a> - Vultr 
 [`^ kembali ke atas ^`](#)
