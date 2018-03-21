@@ -111,7 +111,11 @@ $ sudo systemctl restart apache2
 14. Masukkan Address localhost:8888 di Browser untuk mengakses Vanilla.
 ```
 $ https://localhost:8888
+
 ```
+15. Isi form registrasi awal 
+<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/1.jpg" align="center">
+
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
