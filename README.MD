@@ -122,9 +122,11 @@ Terdapat cara alternatif yang lebih mudah untuk menginstall Vanilla, yaitu denga
 
 Berikut langka-langkah menginstall Vanilla menggunakan Installatron : 
 1. Kunjungi website installatron.com lalu cari "Vanilla Forum" di kolom pencarian
+
 2. klik "+ install this application" 
 
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-installatron.com-2018-03-19-17-35-46.png" align="center">
+
 3. isi form yang ditampilkan, lalu klik install di pojok kanan bawah
 
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/installaron.png" align="center">
@@ -134,7 +136,8 @@ Berikut langka-langkah menginstall Vanilla menggunakan Installatron :
 
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
-Berikut adalah cara pemakaian <strong>Vanilla Forum</strong>
+
+Berikut adalah cara pemakaian **Vanilla Forum**
 
 1. Kunjungi halaman utama Vanilla Forum, lalu klik login
 
@@ -176,13 +179,18 @@ VIP yang paling mahal.
 Dikutip dari <a href="https://www.similartech.com/compare/discourse-vs-vanilla-forums">SimilarTech</a>, perbandingan antara **Vanilla
 Forum** dengan **Discourse**, suatu perangkat lunak yang serupa dengan Vanilla Forum, adalah sebagai berikut :
 
-- Dalam hal <i>market share</i>, Vanilla Forum memimpin pada 10 ribu situs teratas, 100 ribu situs teratas, dan satu juta situs teratas 
+- Dalam hal **<i>market share</i>**, Vanilla Forum memimpin pada 10 ribu situs teratas, 100 ribu situs teratas, dan satu juta situs teratas 
 di dunia. Discourse masih berada di belakang Vanilla Forum pada semua segmen <i>market share</i>.
-- Dalam hal cakupan situs web yang menggunakan kedua perangkat lunak, Vanilla Forum memiliki cakupan yang lebih luas dengan 146 kategori,
-meliputi Bisnis dan Industri, Makanan dan Minuman, dan 142 kategori lainnya.
+- Dalam hal **cakupan situs web** yang menggunakan kedua perangkat lunak, Vanilla Forum memiliki cakupan yang lebih luas dengan 
+146 kategori situs web, meliputi Bisnis dan Industri, Makanan dan Minuman, dan 144 kategori lainnya. Discourse hanya mencakup 40
+kategori, meliputi Orang dan Masyarakat, Agama dan Spiritualitas, dan 38 kategori lainnya.
+- Dalam hal **asal negara pengguna**, Vanilla Forum memimpin di banyak negara, terutama Amerika Serikat, Inggris Raya, Kanada, 
+dan 70 negara lain. Discourse hanya digunakan di 49 negara, termasuk Jerman, Prancis, dan India.
 
 # Referensi
 [`^ kembali ke atas ^`](#)
 
 - <a href="https://github.com/vanilla/vanilla">Vanilla Repository</a> - Github
-- <a href="https://www.vultr.com/docs/how-to-install-vanilla-forum-on-ubuntu-16-04">How to Install Vanilla Forum on Ubuntu 16.04<a> - Vultr 
+- <a href="https://www.vultr.com/docs/how-to-install-vanilla-forum-on-ubuntu-16-04">How to Install Vanilla Forum on Ubuntu 16.04<a> - Vultr
+- <a href="https://www.comparakeet.com/forum-software/vanilla-forums-review">Vanilla Forums Review 2016</a> - Comparakeet
+- <a href="https://www.similartech.com/compare/discourse-vs-vanilla-forums">Discourse vs Vanilla Forums</a> - SimilarTech
