@@ -123,8 +123,10 @@ Terdapat cara alternatif yang lebih mudah untuk menginstall Vanilla, yaitu denga
 Berikut langka-langkah menginstall Vanilla menggunakan Installatron : 
 1. Kunjungi website installatron.com lalu cari "Vanilla Forum" di kolom pencarian
 2. klik "+ install this application" 
+
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-installatron.com-2018-03-19-17-35-46.png" align="center">
 3. isi form yang ditampilkan, lalu klik install di pojok kanan bawah
+
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/installaron.png" align="center">
 
 4. Tunggu proses installasi hingga selesai
@@ -133,31 +135,51 @@ Berikut langka-langkah menginstall Vanilla menggunakan Installatron :
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 Berikut adalah cara pemakaian <strong>Vanilla Forum</strong>
+
 1. Kunjungi halaman utama Vanilla Forum, lalu klik login
+
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/tampilan%20awal.png" align="center">
+
 2. isikan username/email dan password yang telah terdaftar, lalu klik tombol "Sign In"
+
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/login.jpg" align="middle">
-3. Akan ditampilkan halaman home seperti dibawah ini 
+
+3. Akan ditampilkan halaman home seperti dibawah ini
+
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/home.png" align="center">
-4. Setelah login, kita dapat langsung membuat diskusi baru dengan cara menekan tombol "New Discussion" lalu akan muncul tampilan berikut 
+
+4. Setelah login, kita dapat langsung membuat diskusi baru dengan cara menekan tombol "New Discussion" lalu akan muncul tampilan berikut
+
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-localhost%208888-2018-03-19-17-39-35.png" align="center">
+
 5. Berikut adalah tampilan setelah kita membuat diskusi, kita pun juga dapat memberikan tanggapan di kolom komentar
+
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/screenshot-localhost%208888-2018-03-19-17-41-50.png" align="center">
 
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-Pendapat kami tentang aplikasi **Vanilla Forum** ini
+Dikutip dari <a href="https://www.comparakeet.com/forum-software/vanilla-forums-review/">Comparakeet</a>, kelebihan dari **Vanilla 
+Forum** adalah:
 
-Kelebihan
-- Mass-appeal forum.
-- Tema fleksibel
-- Impossibly good integration options with single sign-ons and embedding.
-- The best tools available for community management.
-- Curated features with great plugin options, not the kitchen sink.
+- Vanilla Forum mengizinkan pengguna untuk melakukan kustomisasi forum sehingga sesuai dengan tema atau skema warna situs web pengguna.
+- Vanilla Forum dapat diintegrasikan dengan media sosial seperti Facebook, Twitter, dan Google+ melalui fitur berbagi konten dari forum.
+- Vanilla Forum menyediakan masa percobaan selama 30 hari secara cuma-cuma.
 
-Kelemahan :
+Namun, terdapat kekurangan dari **Vanilla Forum**, yaitu :
+
+- Vanilla Forum memberikan harga yang mahal untuk penggunaan berbayar, yaitu $99/bulan untuk paket Starter dan $3499/bulan untuk paket
+VIP yang paling mahal.
+- Vanilla Forum tidak menyediakan fitur <i>live chat</i> yang dapat dimanfaatkan untuk melayani kebutuhan penggunanya.
+
+Dikutip dari <a href="https://www.similartech.com/compare/discourse-vs-vanilla-forums">SimilarTech</a>, perbandingan antara **Vanilla
+Forum** dengan **Discourse**, suatu perangkat lunak yang serupa dengan Vanilla Forum, adalah sebagai berikut :
+
+- Dalam hal <i>market share</i>, Vanilla Forum memimpin pada 10 ribu situs teratas, 100 ribu situs teratas, dan satu juta situs teratas 
+di dunia. Discourse masih berada di belakang Vanilla Forum pada semua segmen <i>market share</i>.
+- Dalam hal cakupan situs web yang menggunakan kedua perangkat lunak, Vanilla Forum memiliki cakupan yang lebih luas dengan 146 kategori,
+meliputi Bisnis dan Industri, Makanan dan Minuman, dan 142 kategori lainnya.
 
 # Referensi
 [`^ kembali ke atas ^`](#)
