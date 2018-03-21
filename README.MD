@@ -202,3 +202,5 @@ dan 70 negara lain. Discourse hanya digunakan di 49 negara, termasuk Jerman, Pra
 - <a href="https://www.vultr.com/docs/how-to-install-vanilla-forum-on-ubuntu-16-04">How to Install Vanilla Forum on Ubuntu 16.04<a> - Vultr
 - <a href="https://www.comparakeet.com/forum-software/vanilla-forums-review">Vanilla Forums Review 2016</a> - Comparakeet
 - <a href="https://www.similartech.com/compare/discourse-vs-vanilla-forums">Discourse vs Vanilla Forums</a> - SimilarTech
+- <a href="https://open.vanillaforums.com">Vanilla Forums</a> - Open Vanilla Forum
+  
