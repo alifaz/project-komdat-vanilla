@@ -46,24 +46,28 @@ $ sudo apt install php-mysql
 $ sudo apt install php-gd php-mcrypt php-mbstring php-xml php-ssh2 
 $ sudo service apache2 restart 
 ```
+
 5. Install Vanilla Forum dan unzip
 ```
 $ wget https://open.vanillaforums.com/get/vanilla-core.zip 
 ```
+
 6. Install unzip dan ekstrak Vanilla-core.zip ke /var/www/html/vanilla 
 ```
 $ sudo apt -y install unzip 
-$ sudo unzip vanilla-core.zip -d /var/www/html/vanilla 
-
+$ sudo unzip vanilla-core.zip -d /var/www/html/vanilla
 ```
+
 7. Ubah kepemilikan data pada direktori data di atas secara rekursif supaya data dan direktori dapat diakses dari luar (publik).
 ```
 $ sudo chown -R www-data:www-data /var/www/html/vanilla 
 ```
+
 8. Selanjutnya database baru dapat dibuat dengan terlebih dahulu masuk ke shell MySQL.
 ```
 $ mysql -u root -p 
 ```
+
 9. Buat password untuk user root. Lalu, jalankan query berikut untuk membuat database dan sebuah user database untuk instalasi Vanilla Forum. 
 ```
 CREATE DATABASE vanilla_data CHARACTER SET utf8 COLLATE utf8_general_ci; 
@@ -72,12 +76,14 @@ GRANT ALL PRIVILEGES ON vanilla_data.* TO 'vanilla_user'@'localhost';
 FLUSH PRIVILEGES; 
 EXIT;
 ```
-*Ganti nama database vanilla_data dan username vanilla_user sesuai dengan keinginan. Jangan lupa untuk mengganti StrongPassword dengan password yang benar-benar kuat
+
+<i>Ganti nama database vanilla_data dan username vanilla_user sesuai dengan keinginan. Jangan lupa untuk mengganti StrongPassword dengan password yang benar-benar kuat</i>
 
 10. Selanjutnya, buat host virtual untuk situs Vanilla Forum yang akan dibuat.
 ```
 $ sudo nano /etc/apache2/sites-available/000-default.conf 
 ```
+
 11. Populate file host virtual yang sudah dibuat.
 ```
 <VirtualHost *:80> 
@@ -91,10 +97,12 @@ $ sudo nano /etc/apache2/sites-available/000-default.conf
   </Directory> 
 </VirtualHost> 
 ```
+
 12. Aktifkan modul rewrite Apache. 
 ```
 $ sudo a2enmod rewrite 
 ```
+
 13. Jalankan kembali Apache.
 ```
 $ sudo systemctl restart apache2
