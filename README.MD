@@ -152,8 +152,8 @@ Berikut adalah cara pemakaian **Vanilla Forum**
 <img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/tampilan%20awal.png" align="center">
 
 2. isikan username/email dan password yang telah terdaftar, lalu klik tombol "Sign In"
+<h5 align="center"><img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/login.jpg"></h5>
 
-<img src="https://github.com/alifaz/project-komdat-vanilla/blob/master/login.jpg" align="middle">
 
 3. Akan ditampilkan halaman home seperti dibawah ini
 
